@@ -1,0 +1,5 @@
+def kpmg_challenge(ob,ke):
+     obj = ob.split('.')
+     for i in obj:
+         for j in i:
+             prin(j)
